@@ -1,7 +1,10 @@
 # titanic-survival-prediction
 A machine learning model to predict passenger survival on the Titanic.
+
 Project Overview 
+
 Objective: 
+
 The objective of this project is to develop a machine learning model that can accurately predict whether a passenger survived the Titanic disaster, based on features such as Age, Sex, Pclass, and Fare. 
 
 Key Goals: 
